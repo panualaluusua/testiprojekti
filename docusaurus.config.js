@@ -1,25 +1,26 @@
 module.exports = {
-    title: '{{ cookiecutter.project_name }}',
-    url: 'https://{{ cookiecutter.github_username }}.github.io',
-    baseUrl: '/{{ cookiecutter.github_repository_name }}/',
+    title: 'testiprojekti',
+    url: 'https://panualaluusua.github.io',
+    baseUrl: '/testiprojekti/',
     favicon: 'img/favicon.ico',
-    organizationName: '{{ cookiecutter.github_username }}',
-    projectName: '{{ cookiecutter.github_repository_name }}',
+    organizationName: 'panualaluusua',
+    projectName: 'testiprojekti',
     themeConfig: {
       navbar: {
-        title: '{{ cookiecutter.project_name }}',
+        title: 'testiprojekti',
         logo: {
-          alt: '{{ cookiecutter.project_name }} logo',
+          alt: 'testiprojekti logo',
           src: 'img/logo.svg',
+          href: 'docs/',
         },
         items: [
           {to: 'docs/', label: 'Dokumentaatio', position: 'left'},
-          {href: 'https://github.com/{{ cookiecutter.github_username }}/{{ cookiecutter.github_repository_name }}', label: 'GitHub', position: 'right'},
+          {href: 'https://github.com/panualaluusua/testiprojekti', label: 'GitHub', position: 'right'},
         ],
       },
       footer: {
         style: 'dark',
-        copyright: `Copyright © ${new Date().getFullYear()} {{ cookiecutter.author_name }}`,
+        copyright: `Copyright ${new Date().getFullYear()} panu`,
       },
     },
     presets: [
@@ -30,10 +31,9 @@ module.exports = {
             sidebarPath: require.resolve('./sidebars.js'),
           },
           theme: {
-            customCss: require.resolve('./src/css/custom.css'),
+            customCss: require.resolve('./src/custom.css'),
           },
         },
       ],
     ],
   };
-  

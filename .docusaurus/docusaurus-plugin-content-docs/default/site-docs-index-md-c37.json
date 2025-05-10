@@ -1,0 +1,19 @@
+{
+  "id": "index",
+  "title": "Dokumentaation etusivu",
+  "description": "",
+  "source": "@site/docs/index.md",
+  "sourceDirName": ".",
+  "slug": "/",
+  "permalink": "/testiprojekti/docs/",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "someSidebar",
+  "next": {
+    "title": "Projektin visio",
+    "permalink": "/testiprojekti/docs/vision"
+  }
+}

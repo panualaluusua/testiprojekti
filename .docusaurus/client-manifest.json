@@ -1,0 +1,247 @@
+{
+  "entrypoints": [
+    "main"
+  ],
+  "origins": {
+    "42": [
+      42
+    ],
+    "17896441": [
+      869,
+      401
+    ],
+    "main": [
+      354,
+      869,
+      792
+    ],
+    "runtime~main": [
+      792,
+      869,
+      354
+    ],
+    "0dffb83e": [
+      821
+    ],
+    "2b1660b5": [
+      275
+    ],
+    "33c29366": [
+      82
+    ],
+    "3be696df": [
+      970
+    ],
+    "3fcd3f64": [
+      296
+    ],
+    "5281b7a2": [
+      443
+    ],
+    "5e95c892": [
+      647
+    ],
+    "9beb87c2": [
+      539
+    ],
+    "a7bd4aaa": [
+      98
+    ],
+    "a94703ab": [
+      869,
+      48
+    ],
+    "aba21aa0": [
+      742
+    ],
+    "ae4554eb": [
+      510
+    ],
+    "c377a04b": [
+      361
+    ],
+    "e8ef842d": [
+      563
+    ],
+    "styles": [
+      48,
+      354,
+      401,
+      792,
+      869
+    ]
+  },
+  "assets": {
+    "42": {
+      "js": [
+        {
+          "file": "assets/js/42.0b67c9cb.js",
+          "hash": "8bf79496885b3890",
+          "publicPath": "/testiprojekti/assets/js/42.0b67c9cb.js"
+        }
+      ]
+    },
+    "48": {
+      "js": [
+        {
+          "file": "assets/js/a94703ab.c908c051.js",
+          "hash": "2f0419e2942469e2",
+          "publicPath": "/testiprojekti/assets/js/a94703ab.c908c051.js"
+        }
+      ]
+    },
+    "82": {
+      "js": [
+        {
+          "file": "assets/js/33c29366.0e812bc9.js",
+          "hash": "3ee5c28af1dc8a36",
+          "publicPath": "/testiprojekti/assets/js/33c29366.0e812bc9.js"
+        }
+      ]
+    },
+    "98": {
+      "js": [
+        {
+          "file": "assets/js/a7bd4aaa.f0827dcb.js",
+          "hash": "ebe7a504e9384a92",
+          "publicPath": "/testiprojekti/assets/js/a7bd4aaa.f0827dcb.js"
+        }
+      ]
+    },
+    "275": {
+      "js": [
+        {
+          "file": "assets/js/2b1660b5.b60b857b.js",
+          "hash": "b1419d764e84b98b",
+          "publicPath": "/testiprojekti/assets/js/2b1660b5.b60b857b.js"
+        }
+      ]
+    },
+    "296": {
+      "js": [
+        {
+          "file": "assets/js/3fcd3f64.aad59c44.js",
+          "hash": "63a559363a3ef29b",
+          "publicPath": "/testiprojekti/assets/js/3fcd3f64.aad59c44.js"
+        }
+      ]
+    },
+    "354": {
+      "js": [
+        {
+          "file": "assets/js/runtime~main.e349cf12.js",
+          "hash": "c2d3aa000df477a5",
+          "publicPath": "/testiprojekti/assets/js/runtime~main.e349cf12.js"
+        }
+      ]
+    },
+    "361": {
+      "js": [
+        {
+          "file": "assets/js/c377a04b.57161231.js",
+          "hash": "e34e5e528bc0d61e",
+          "publicPath": "/testiprojekti/assets/js/c377a04b.57161231.js"
+        }
+      ]
+    },
+    "401": {
+      "js": [
+        {
+          "file": "assets/js/17896441.0466d350.js",
+          "hash": "e96e407f5a22207c",
+          "publicPath": "/testiprojekti/assets/js/17896441.0466d350.js"
+        }
+      ]
+    },
+    "443": {
+      "js": [
+        {
+          "file": "assets/js/5281b7a2.9938873b.js",
+          "hash": "7edeff9a6ae1fa82",
+          "publicPath": "/testiprojekti/assets/js/5281b7a2.9938873b.js"
+        }
+      ]
+    },
+    "510": {
+      "js": [
+        {
+          "file": "assets/js/ae4554eb.b98201cb.js",
+          "hash": "a4ecf7a3e89710e8",
+          "publicPath": "/testiprojekti/assets/js/ae4554eb.b98201cb.js"
+        }
+      ]
+    },
+    "539": {
+      "js": [
+        {
+          "file": "assets/js/9beb87c2.cb08b031.js",
+          "hash": "7ae09a168600d696",
+          "publicPath": "/testiprojekti/assets/js/9beb87c2.cb08b031.js"
+        }
+      ]
+    },
+    "563": {
+      "js": [
+        {
+          "file": "assets/js/e8ef842d.a6561b4f.js",
+          "hash": "0de50fbebf16871b",
+          "publicPath": "/testiprojekti/assets/js/e8ef842d.a6561b4f.js"
+        }
+      ]
+    },
+    "647": {
+      "js": [
+        {
+          "file": "assets/js/5e95c892.dc49a1b0.js",
+          "hash": "f5d2d734787e1732",
+          "publicPath": "/testiprojekti/assets/js/5e95c892.dc49a1b0.js"
+        }
+      ]
+    },
+    "742": {
+      "js": [
+        {
+          "file": "assets/js/aba21aa0.f8517c53.js",
+          "hash": "dbdacfabc1e3bec6",
+          "publicPath": "/testiprojekti/assets/js/aba21aa0.f8517c53.js"
+        }
+      ]
+    },
+    "792": {
+      "js": [
+        {
+          "file": "assets/js/main.6eeb63eb.js",
+          "hash": "375a0980461cb303",
+          "publicPath": "/testiprojekti/assets/js/main.6eeb63eb.js"
+        }
+      ]
+    },
+    "821": {
+      "js": [
+        {
+          "file": "assets/js/0dffb83e.528b5fa8.js",
+          "hash": "d4ded55cbe3a0f57",
+          "publicPath": "/testiprojekti/assets/js/0dffb83e.528b5fa8.js"
+        }
+      ]
+    },
+    "869": {
+      "css": [
+        {
+          "file": "assets/css/styles.7fb18358.css",
+          "hash": "9358464edb8a7010",
+          "publicPath": "/testiprojekti/assets/css/styles.7fb18358.css"
+        }
+      ]
+    },
+    "970": {
+      "js": [
+        {
+          "file": "assets/js/3be696df.0614cee4.js",
+          "hash": "b241704b50c7157c",
+          "publicPath": "/testiprojekti/assets/js/3be696df.0614cee4.js"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": "architecture",
+  "title": "Arkkitehtuurikuvaus",
+  "description": "",
+  "source": "@site/docs/architecture.md",
+  "sourceDirName": ".",
+  "slug": "/architecture",
+  "permalink": "/testiprojekti/docs/architecture",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Muutosloki",
+    "permalink": "/testiprojekti/docs/changelog"
+  }
+}

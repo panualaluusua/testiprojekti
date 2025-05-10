@@ -1,0 +1,23 @@
+{
+  "id": "vision",
+  "title": "Projektin visio",
+  "description": "",
+  "source": "@site/docs/vision.md",
+  "sourceDirName": ".",
+  "slug": "/vision",
+  "permalink": "/testiprojekti/docs/vision",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Dokumentaation etusivu",
+    "permalink": "/testiprojekti/docs/"
+  },
+  "next": {
+    "title": "Kehityksen tiekartta",
+    "permalink": "/testiprojekti/docs/roadmap"
+  }
+}

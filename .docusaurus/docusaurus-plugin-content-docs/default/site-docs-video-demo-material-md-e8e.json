@@ -1,0 +1,14 @@
+{
+  "id": "video_demo_material",
+  "title": "Videodemon käsikirjoitus ja materiaalit",
+  "description": "",
+  "source": "@site/docs/video_demo_material.md",
+  "sourceDirName": ".",
+  "slug": "/video_demo_material",
+  "permalink": "/testiprojekti/docs/video_demo_material",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {}
+}

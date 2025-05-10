@@ -1,0 +1,23 @@
+{
+  "id": "roadmap",
+  "title": "Kehityksen tiekartta",
+  "description": "",
+  "source": "@site/docs/roadmap.md",
+  "sourceDirName": ".",
+  "slug": "/roadmap",
+  "permalink": "/testiprojekti/docs/roadmap",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "someSidebar",
+  "previous": {
+    "title": "Projektin visio",
+    "permalink": "/testiprojekti/docs/vision"
+  },
+  "next": {
+    "title": "Muutosloki",
+    "permalink": "/testiprojekti/docs/changelog"
+  }
+}
