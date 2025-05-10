@@ -1,6 +1,6 @@
 module.exports = {
     title: 'testiprojekti',
-    url: 'https://panualaluusua.github.io',
+    url: 'https://panualaluusua.fi',
     baseUrl: '/testiprojekti/',
     favicon: 'img/favicon.ico',
     organizationName: 'panualaluusua',
